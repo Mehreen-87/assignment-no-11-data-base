@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+    table-layout: fixed;
+}
+td{
+    height: 50px;
+}
+tr.three{
+    background-color: rgb(144, 238, 81);
+}
+tr.six{
+    background-color: rgb(144,238,81);
+}
+button{
+    background-color: rgb(116, 223, 45);
+}
