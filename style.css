@@ -1,7 +1,11 @@
 table{
     width: 100%;
+    margin: 20px;
     table-layout: fixed;
+    border-color: white;
+    border-collapse: collapse;
 }
+
 td{
     height: 50px;
 }
@@ -13,4 +17,5 @@ tr.six{
 }
 button{
     background-color: rgb(116, 223, 45);
+    padding: 10px;
 }
